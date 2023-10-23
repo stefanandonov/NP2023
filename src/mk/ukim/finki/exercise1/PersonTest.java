@@ -1,4 +1,4 @@
-package mk.ukim.finki.ex1;
+package mk.ukim.finki.exercise1;
 
 import java.util.Objects;
 

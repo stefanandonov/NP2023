@@ -1,4 +1,4 @@
-package mk.ukim.finki.ex2;
+package mk.ukim.finki.exercise2;
 
 import java.util.Scanner;
 

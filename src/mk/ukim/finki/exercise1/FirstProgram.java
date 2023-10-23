@@ -1,4 +1,4 @@
-package mk.ukim.finki.ex1;
+package mk.ukim.finki.exercise1;
 
 public class FirstProgram {
     public static void main(String[] args) {
